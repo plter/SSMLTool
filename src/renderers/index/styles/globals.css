@@ -1,0 +1,11 @@
+html, body, #app {
+    width: 100%;
+    height: 100%;
+    background: black;
+    margin: 0;
+    overflow: hidden;
+}
+
+.n-button * {
+    pointer-events: none;
+}
