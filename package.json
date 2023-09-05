@@ -41,7 +41,7 @@
     "ali-oss": "^6.17.1",
     "cos-nodejs-sdk-v5": "^2.12.3",
     "jsoneditor": "^9.10.2",
-    "tencentcloud-sdk-nodejs-asr": "^4.0.643",
+    "tencentcloud-sdk-nodejs-asr": "^4.0.681",
     "tencentcloud-sdk-nodejs-tts": "^4.0.643"
   }
 }
