@@ -31,7 +31,7 @@
     "@vitejs/plugin-vue": "^4.0.0",
     "electron": "^25.1.0",
     "electron-builder": "^24.6.3",
-    "naive-ui": "^2.34.4",
+    "naive-ui": "^2.35.0",
     "vfonts": "^0.0.3",
     "vicons": "^0.0.1",
     "vite": "^4.1.4",
