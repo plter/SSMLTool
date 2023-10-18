@@ -34,7 +34,7 @@
     "naive-ui": "^2.34.4",
     "vfonts": "^0.0.3",
     "vicons": "^0.0.1",
-    "vite": "^4.1.4",
+    "vite": "^4.5.0",
     "vue": "^3.2.47"
   },
   "dependencies": {
